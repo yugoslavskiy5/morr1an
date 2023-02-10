@@ -1,82 +1,33 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+[vkontakteUrl]: https://vk.me/shazaika
+[vkontakteBadge]: https://img.shields.io/static/v1?label=vk&message=write&style=for-the-badge&color=0077FF&logo=vk
 
-### <div align="center">I'm Tasway, I'm currently working and writing plugins for my Minecraft server.</div>  
-  
-
-<br/>  
+[telegramUrl]: https://t.me/tasway
+[telegramBadge]: https://img.shields.io/static/v1?label=telegram&message=write&style=for-the-badge&color=26A5E4&logo=telegram
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+[youtubeUrl]: https://www.youtube.com/channel/UCbNDaAOukUYtXWEgMgRMA7w
+[youtubeBadge]: https://img.shields.io/static/v1?label=youtube&message=view&style=for-the-badge&color=FF0000&logo=youtube
 
+## Hi, this is TASWAY 👋🏻
 
+I am a Java developer and Bukkit plugins coder.<br>
+See my pinned repositories to browse my opensource projects.
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+[![vkontakteBadge]][vkontakteUrl] [![telegramBadge]][telegramUrl] [![twitterBadge]][twitterUrl] [![youtubeBadge]][youtubeUrl]
+
+### My activity
+<div>  
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=soknight&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoKnight&hide_border=true&theme=material-palenight&langs_count=5"/>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/tasway" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tas.way" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCbNDaAOukUYtXWEgMgRMA7w" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tasway&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tasway&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+### Learned Libraries and Frameworks
+| Name | Level | Description |
+|:---:|:---:|---|
+| [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) | High | API of the Minecraft server software based on Bukkit |
+| [Paper API](https://papermc.io/javadocs/paper/1.17/index.html) | High | Extended API based on the Spigot API |
+| [ORMLite](https://ormlite.com/) | High | Awesome framework for working with databases such as SQLite, MySQL, PostgreSQL |
+| [Java FX](https://openjfx.io/) | High | The best desktop graphical application framework for Java |
+| [Netty IO](https://netty.io/) | Medium | The async network application framework with high perfomance |
+| [Spring Boot](https://spring.io/projects/spring-boot) | Medium | The best web application framework for Java |
+| [JUnit](https://junit.org/junit5/) | Medium | The unit testing framework for Java |
