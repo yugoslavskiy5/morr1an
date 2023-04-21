@@ -1,14 +1,13 @@
 [vkontakteUrl]: https://vk.me/shazaika
 [vkontakteBadge]: https://img.shields.io/static/v1?label=vk&message=write&style=for-the-badge&color=0077FF&logo=vk
 
-[telegramUrl]: https://t.me/tasway
+[telegramUrl]: https://t.me/morr1an
 [telegramBadge]: https://img.shields.io/static/v1?label=telegram&message=write&style=for-the-badge&color=26A5E4&logo=telegram
-
 
 [youtubeUrl]: https://www.youtube.com/channel/UCbNDaAOukUYtXWEgMgRMA7w
 [youtubeBadge]: https://img.shields.io/static/v1?label=youtube&message=view&style=for-the-badge&color=FF0000&logo=youtube
 
-## Hi, this is TASWAY 👋🏻
+## Hi, this is MORRIAN 👋🏻
 
 I am a Java developer and Bukkit plugins coder.<br>
 See my pinned repositories to browse my opensource projects.
@@ -26,3 +25,10 @@ See my pinned repositories to browse my opensource projects.
 |:---:|:---:|---|
 | [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) | Medium | API of the Minecraft server software based on Bukkit |
 | [Paper API](https://papermc.io/javadocs/paper/1.17/index.html) | Medium | Extended API based on the Spigot API |
+| [HTML](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Markup language used for creating web pages |
+| [PHP](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Server-side scripting language used for web development |
+| [Bash](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Unix shell and command language |
+| [Python](https://papermc.io/javadocs/paper/1.17/index.html) | Low | High-level programming language used for various purposes |
+| [CSS](https://papermc.io/javadocs/paper/1.17/index.html) | Medium | Style sheet language used for describing the presentation of a document written in HTML |
+| [JavaScript](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Programming language used for creating interactive web pages |
+| [Node.js](https://papermc.io/javadocs/paper/1.17/index.html) | Low | JavaScript runtime built on Chrome's V8 JavaScript engine that allows server-side execution of JavaScript |
