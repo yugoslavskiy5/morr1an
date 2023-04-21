@@ -25,10 +25,10 @@ See my pinned repositories to browse my opensource projects.
 |:---:|:---:|---|
 | [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) | Medium | API of the Minecraft server software based on Bukkit |
 | [Paper API](https://papermc.io/javadocs/paper/1.17/index.html) | Medium | Extended API based on the Spigot API |
-| [HTML](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Markup language used for creating web pages |
-| [PHP](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Server-side scripting language used for web development |
-| [Bash](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Unix shell and command language |
-| [Python](https://papermc.io/javadocs/paper/1.17/index.html) | Low | High-level programming language used for various purposes |
-| [CSS](https://papermc.io/javadocs/paper/1.17/index.html) | Medium | Style sheet language used for describing the presentation of a document written in HTML |
-| [JavaScript](https://papermc.io/javadocs/paper/1.17/index.html) | Low | Programming language used for creating interactive web pages |
-| [Node.js](https://papermc.io/javadocs/paper/1.17/index.html) | Low | JavaScript runtime built on Chrome's V8 JavaScript engine that allows server-side execution of JavaScript |
+| [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | Low | Markup language used for creating web pages |
+| [PHP](https://www.php.net/) | Low | Server-side scripting language used for web development |
+| [Bash](https://www.gnu.org/software/bash/) | Low | Unix shell and command language |
+| [Python](https://www.python.org/) | Low | High-level programming language used for various purposes |
+| [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | Medium | Style sheet language used for describing the presentation of a document written in HTML |
+| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Low | Programming language used for creating interactive web pages |
+| [Node.js](https://nodejs.org/en/) | Low | JavaScript runtime built on Chrome's V8 JavaScript engine that allows server-side execution of JavaScript |
