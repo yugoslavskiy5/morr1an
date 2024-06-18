@@ -1,13 +1,13 @@
-[vkontakteUrl]: https://vk.me/shazaika
+[vkontakteUrl]: https://vk.me/morrian
 [vkontakteBadge]: https://img.shields.io/static/v1?label=vk&message=write&style=for-the-badge&color=0077FF&logo=vk
 
-[telegramUrl]: https://t.me/morr1an
+[telegramUrl]: https://t.me/yugoslavskiy5
 [telegramBadge]: https://img.shields.io/static/v1?label=telegram&message=write&style=for-the-badge&color=26A5E4&logo=telegram
 
 [youtubeUrl]: https://www.youtube.com/channel/UCbNDaAOukUYtXWEgMgRMA7w
 [youtubeBadge]: https://img.shields.io/static/v1?label=youtube&message=view&style=for-the-badge&color=FF0000&logo=youtube
 
-## Hi, this is MORRIAN 👋🏻
+## Hi, this is Yugoslavskiy 👋🏻
 
 I am a Java developer and Bukkit plugins coder.<br>
 See my pinned repositories to browse my opensource projects.
@@ -16,8 +16,8 @@ See my pinned repositories to browse my opensource projects.
 
 ### My activity
 <div>  
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=morr1an&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoKnight&hide_border=true&theme=material-palenight&langs_count=5"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yugoslavskiy5&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugoslavskiy5&hide_border=true&theme=material-palenight&langs_count=5"/>
 </div>
 
 ### Learned Libraries and Frameworks
