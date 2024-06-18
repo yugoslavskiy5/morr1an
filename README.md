@@ -16,6 +16,7 @@ I am an 18-year-old Java developer and Bukkit plugins coder from Moldova. I enjo
 ---
 
 ### 🛠️ Tech Stack
+<div align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -24,10 +25,12 @@ I am an 18-year-old Java developer and Bukkit plugins coder from Moldova. I enjo
 <img src="https://img.shields.io/badge/BungeeCord-0052CC?style=for-the-badge&logo=bungeecord&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bukkit-02569B?style=for-the-badge&logo=bukkit&logoColor=white"/>
+</div>
 
 ---
 
 ### 💻 Development Tools
+<div align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -35,11 +38,14 @@ I am an 18-year-old Java developer and Bukkit plugins coder from Moldova. I enjo
 <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Obsidian.md-483D8B?style=for-the-badge&logo=obsidian&logoColor=white"/>
+</div>
 
 ---
 
 ### 📊 My Activity
+<div align="left">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yugoslavskiy5&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugoslavskiy5&hide_border=true&theme=material-palenight&langs_count=5"/>
+</div>
 
 ---
