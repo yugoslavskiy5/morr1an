@@ -39,13 +39,3 @@ I am an 18-year-old Java developer and Bukkit plugins coder from Moldova. I enjo
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Obsidian.md-483D8B?style=for-the-badge&logo=obsidian&logoColor=white"/>
 </div>
-
----
-
-### 📊 My Activity
-<div align="left">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yugoslavskiy5&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugoslavskiy5&hide_border=true&theme=material-palenight&langs_count=5"/>
-</div>
-
----
